@@ -1,7 +1,7 @@
 # Password-Creater
 
 - **English**
-- [Chinese](/README-zh.md)
+- [简体中文](/README-zh.md)
 
 Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password. Password creator is a practical gadget that can create keys for multiple password algorithms to solve the problem that your website forgets its password.
 
