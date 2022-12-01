@@ -32,5 +32,8 @@ echo "<br>";
 echo "<center>"."CRYPT: ".crypt($pass)."</center>";
 
 echo "<br>";
+echo "<center>"."BCRYPT: ".password_hash($pass, PASSWORD_BCRYPT)."</center>";
+
+echo "<br>";
 echo "<center>"."PASSWORD: ".password($pass)."</center>";
 ?>
